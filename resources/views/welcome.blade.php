@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Livewire Creash Course
-        
-    </h1>
+    <livewire:firstComponent/>
 </body>
 </html>
